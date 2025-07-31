@@ -9,3 +9,4 @@ CREATE TABLE Products (
     sku NVARCHAR(100),
     distribution_centre_id NVARCHAR(100)
 );
+SELECT TOP 10 * FROM Products
