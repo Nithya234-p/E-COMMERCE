@@ -1,4 +1,3 @@
-
 CREATE TABLE Products (
     id INT IDENTITY(1,1) PRIMARY KEY,
     cost FLOAT,
